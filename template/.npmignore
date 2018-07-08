@@ -1,0 +1,6 @@
+.*
+*.md
+build/
+node_modules/
+test/
+gulpfile.js
